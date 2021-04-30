@@ -1,0 +1,10 @@
+User Guide For Analysts
+
+The COVID Mortality platfrom is very easy to use.
+In order to obtain predictions, execute the following steps:
+
+1. Run the application (app.py) in command line
+2. Copy the link to the website and open it in a browser of your choice
+3. For each of the 16 fields that describe various features about the patient's medical information, input the appropriate values
+4. Scroll to the top of the page and click the 'Estimate number of days' button
+5. A numeric value would be displayed which indicates the estimated amount of days such a patient has left to live

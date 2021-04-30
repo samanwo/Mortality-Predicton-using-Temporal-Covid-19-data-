@@ -1,0 +1,14 @@
+Installation Guide
+To use this application, the following steps should be taken
+
+1. Download the project folder
+2. Open command line and load the file into the current path
+3. Run the following commands to install the requiremnets and launch the application
+	- pip install scikit-learn pandas numpy flask
+	- python app.py
+
+File descriptions
+model.py — This contains code for the machine learning model to predict sales in the third month based on the sales in the first two months.
+app.py — This contains Flask APIs that receives sales details through GUI or API calls, computes the predicted value based on our model and returns it.
+request.py — This uses requests module to call APIs defined in app.py and displays the returned value.
+HTML/CSS — This contains the HTML template and CSS styling to allow user to enter sales detail and displays the predicted sales in the third month
