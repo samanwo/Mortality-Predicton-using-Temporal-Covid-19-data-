@@ -1,1 +1,1 @@
-# Mortality-Predciton-using-Temporal-Covid-19-data-
+# Mortality-Predicton-using-Temporal-Covid-19-data-
